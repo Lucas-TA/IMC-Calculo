@@ -1,0 +1,8 @@
+.resultContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.resultContainer span {
+    font-size: 20px;
+}
